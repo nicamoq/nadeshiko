@@ -30,7 +30,9 @@
 
 4. Place it to desktop then you're done!
 
-IMPORTANT NOTE: If you encounter a "No source file" error, make sure that you extract the nadeshiko folder as-is, and rename it to not include "-1.0"
+
+<h3>IMPORTANT NOTE: If you encounter a "No source file" error, make sure that you extract the nadeshiko folder as-is, and rename it to not include "-1.0"</h3>
+
 
 Enjoy!
 
