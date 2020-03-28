@@ -20,4 +20,4 @@
 
 Enjoy!
 
-![Nadeshiko Launcher](https://i.ibb.co/tZm3kzg/Yuru-Camp-Launcher.png
+![Nadeshiko Launcher](https://i.ibb.co/tZm3kzg/Yuru-Camp-Launcher.png)
